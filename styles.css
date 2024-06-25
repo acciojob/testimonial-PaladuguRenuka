@@ -3,18 +3,18 @@ h1{
 	padding: 20px;
 	background-color: #f5f5f5;
 }
-.testimonial {
+.testimonal {
 	padding: 15px;
 	border: 1px solid #ccc;
 	background-color: #fff;
 	margin-bottom: 20px;
 }
 
-.testimonial-text {
+.testimonal-text {
 	margin-bottom: 10px;
 }
 
-.testimonial-author {
+.testimonal-author {
 	text-align: right;
 	font-style: italic;
 }
