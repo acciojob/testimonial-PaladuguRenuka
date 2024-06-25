@@ -4,14 +4,17 @@
 }
 h1{
 	padding: 10px;
+	margin: 10px;
 }
 div{
-	padding: 30px;
+	padding: 20px;
 	margin: 20px;
 	border: 1px;
 	background-color: white;
 }
 p{
+	padding: 10px;
+	margin: 10px;
 	text-align: right;
 	font-style: italic;
 	background-color: white;
